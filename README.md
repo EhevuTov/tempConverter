@@ -1,8 +1,8 @@
-## Desscription
+## Description
 A Temperature Converter
 
 ## Usage
-- node tempCoverter.js _unit_ _temperature_
+- node convert.js _unit_ _temperature_
 
 ## Features
 - Celsius
