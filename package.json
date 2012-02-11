@@ -1,0 +1,14 @@
+{
+  "name": "tempConverter",
+  "version": "0.0.1",
+  "description": "A temperature conversion program for the command line",
+  "author": "James Gosnell <jamesgosnell@gmail.com>",
+  "repository": { "type": "git", "url": "https://github.com/EhevuTov/tempConverter.git"},
+  "dependencies": {
+    "commander": ">= 0.2.x"
+  },
+  "devDependencies": {
+    "vows": ">= 0.5.x"
+  },
+  "engine": "node >= 0.4.x"
+}
