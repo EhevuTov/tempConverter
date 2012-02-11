@@ -2,7 +2,7 @@
 A Temperature Converter
 
 ## Usage
-    node convert.js <unit> <temperature>
+    ./convert.js <conversion> <temperature>
 
 ## Features
 - Celsius
