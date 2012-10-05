@@ -12,7 +12,7 @@ function c2f( c ) {
 }
 
 arg
-  .version( '0.0.1' )
+  .version( '0.0.1' ) 
   .usage( "<conversion> <temperature>" )
 
 // a new block for each function
