@@ -14,5 +14,8 @@
   "devDependencies": {
     "vows": ">= 0.5.x"
   },
+	"scripts": {
+		"test": ""
+	},
   "engine": "node >= 14.x"
 }
